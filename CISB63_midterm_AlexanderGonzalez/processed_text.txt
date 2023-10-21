@@ -1,0 +1,115 @@
+
+
+Xbox video gaming brand created owned Microsoft The brand consists five video game consoles well applications games streaming service Xbox Cloud Gaming online services Xbox network Xbox Game Pass development arm Xbox Game Studios The brand first introduced United States November 2001 launch original Xbox console
+
+The original device first video game console offered American company Atari Jaguar stopped sales 1996 It reached 24 million units sold May 20061 Microsofts second console Xbox 360 released 2005 sold 86 million units October 2021 The third console Xbox One released November 2013 sold 58 million units2 The fourth line Xbox consoles Xbox Series X Series S released November 2020 The head Xbox Phil Spencer succeeded former head Marc Whitten late March 201434
+
+When Sony Computer Entertainment first announced PlayStation 2 1999 company positioned console centerpiece home entertainment would play video games also could play audio CDs video DVDs Microsoft whose business primarily supporting personal computer PC business Windows operating system software games saw PlayStation 2 threat personal computer5
+
+Four engineers Microsofts DirectX teamKevin Bachus Seamus Blackley Ted Hase DirectX team leader Otto Berkes began envision Microsoft console compete PlayStation 2 would like They designed system would use many hardware components common PCs effectively running version Windows DirectX power games console65 This approach would make easy developers Windows build games new system differentiating custom hardware solutions consoles78 Numerous names suggested console including Direct X Box9 Windows Entertainment Project10 Microsofts marketing team conducted consumer surveys name using name Xbox control believing would least desirable found highest preference tests selected name console11
+
+While original Xbox modest sales Microsoft took large financial loss support However performance sufficient convince company continue produce line Since release four generations Xbox recent Xbox Series X Series S units The Xbox become direct competitor Sonys PlayStation brand offering high performance gaming systems roughly similar specifications
+
+Microsoft recently working leverage branding Xbox beyond console hardware general video game brand reflected renaming Microsoft Studios Xbox Game Studios 20191213 Phil Spencer stated June 2019 Microsoft The business isnt many consoles sell The business many players playing games buy play journalists taken route deemphasize console hardware prioritize games subscriptions services players1415 Later February 2020 Spencer said moving forward company see traditional gaming companies like Nintendo Sony competitors instead offer cloud computing services Amazon Google Spencer identified Microsoft Azure major component plans going forward powers xCloud game streaming service16 Spencer also cited mobile gaming potential area Microsoft trying position services become preferred form gaming Spencer said I dont think hardware agnostic much want play describing Microsoft strategizing Xbox branding future17
+
+The original Xbox released November 15 2001 North America February 22 2002 Japan March 14 2002 Australia Europe It Microsofts first foray gaming console market As part sixth generation video game consoles Xbox competed Sonys PlayStation 2 Segas Dreamcast stopped American sales Xbox went sale Nintendos GameCube The Xbox built around 733 MHz 32bit Intel Pentium III CPU 233 MHz Nvidia GeForce 3based NV2A GPU 64 MB memory The Xbox first console offered American company Atari Jaguar stopped sales 1996 The name Xbox derived contraction DirectX Box reference Microsofts graphics API DirectX1819
+
+The integrated Xbox Live service launched November 2002 allowed players play games online broadband connection20 It first competed Dreamcasts online service later primarily competed PlayStation 2s online service Although two competing services free Xbox Live required subscription well broadbandonly connection completely adopted yet Xbox Live success due better servers features buddy list milestone titles Halo 2 released November 2004 became bestselling Xbox video game far popular online game original Xbox system
+
+The Xbox 360 released successor original Xbox November 2005 competing Sonys PlayStation 3 Nintendos Wii part seventh generation video game consoles It featured custom triplecore 64bit PowerPCbased processor design IBM 512 MB RAM memory As June 2014 84 million Xbox 360 consoles sold worldwide21 The Xbox 360 officially unveiled MTV May 12 2005 detailed launch game information divulged later month Electronic Entertainment Expo E3 The console sold completely upon release regions except Japan222324 Several retail configurations core Xbox 360 model offered lifetime varying amount RAM internal storage offered
+
+The Xbox 360 showed expanded Xbox Live service included limited Free tier called Silver ability stream multimedia content PCs later updates added ability purchase stream music television programs films Xbox Music Xbox Video services along access thirdparty content services thirdparty media streaming applications Microsoft also released Kinect motion control system Xbox 360 uses advanced sensor system
+
+Two major revisions Xbox 360 released following initial launch The Xbox 360 S typically considered Slim launched 2010 featured core hardware redesigned slimmer form factor smallersized 250 GB hard drive It also added integrated 80211 bgn WiFi TOSLINK SPDIF optical audio output five USB 20 ports compared three older versions special port designed Kinect peripheral The Xbox 360 S replaced base Xbox 360 unit discontinued sold price252627 A cheaper Xbox 360 S unit removing 250 GB drive adding 4 GB internal storage released later 2010 unit allowed users hook external storage solution purchase 250 GB internal addon
+
+The second major revision Xbox 360 Xbox 360 E released 2013 It featured case style similar upcoming Xbox One eliminated one USB port SPDIF YPbPr component Svideo connections otherwise shared specifications Xbox 360 S
+
+The Xbox One released November 22 2013 North America successor Xbox 360 The Xbox One competes Sonys PlayStation 4 Nintendos Wii U Switch part eighth generation video game consoles It features AMD Accelerated Processing Unit APU built around 64bit x8664 instruction set come 12 GB memory
+
+Announced May 21 201328 Xbox One emphasis internetbased features including ability record stream gameplay ability integrate settop box watch cable satellite TV console enhanced guide interface Kinectbased voice control29303132
+
+Following unveiling Xbox One proved controversial original digital rights management privacy practices Microsoft touted ability users access library games regardless whether purchased physically digitally Xbox One console without needing discs ability share entire library 10 designated family members games would tied users Xbox Live account Xbox One console console would required connect Internet periodic basis least every 24 hours synchronize library else console would unable play games all3334 After overwhelmingly negative response critics consumers also showed concerns system could prevent hinder resale used games Microsoft announced restrictions would dropped35 Microsoft also criticized requiring Xbox One updated Kinect peripheral plugged function critics privacy advocates believed could used surveillance device As gesture toward showing commitment user privacy Microsoft decided allow console function without Kinect363738
+
+On June 13 2016 Microsoft announced Xbox One S E3 2016 featured smaller form factor well support 4K video including streaming Ultra HD Bluray HDR39 At E3 2017 Microsoft unveiled Xbox One X highend model improved hardware designed facilitate playing games 4K resolution40
+
+Since November 2014 Microsoft stated release sales numbers Xbox One line41 Xbox head Phil Spencer said internally track sales figures want developers focused numbers affect products thus opted report sales Xbox hardware going forward42 In July 2023 Microsoft revealed Xbox One line sold 58 million units2
+
+The fourth generation Xbox models simply named Xbox43 includes Xbox Series X Xbox Series S launched November 10 2020 Both considered members ninth generation video game consoles alongside PlayStation 5 also released month Like Xbox One consoles use AMD 64bit x8664 CPU GPU 16 GB memory
+
+The Xbox Series X Series S highend lowend versions comparable Xbox One X Xbox One S models respectively games designed model family playable systems The Xbox Series X estimated four times powerful Xbox One X support 8K resolution 120 framespersecond rendering nominal target 4K resolution 60 frames per second The Xbox Series S digitalonly unit less graphic processing power still render nominal 1440p resolution 60 frames per second support 4K upscaling Both consoles features support new graphics rendering systems including realtime raytracing new Xbox Velocity Architecture works internal SSD drive maximize rate texture streaming graphics processor among features Besides games new console family consoles fully compatible Xbox One games hardware well backward compatible games playable Xbox One Xbox 360 original Xbox console44
+
+To help transition consumers Microsoft introduced Smart Delivery system firstparty games several thirdparty games use offer free updates Xbox One versions games Xbox Series XS version first years consoles launch4546
+
+The following table comparison four generations Xbox hardware
+
+Best selling nonbundled game Grand Theft Auto V 2295 million51
+
+See Xbox 360 accessories
+
+See Xbox One accessories
+
+See Xbox One accessories
+
+Various monitor resolutions available via VGA HDMIDVI 640480 848480 1024768 1280720 1280768 12801024 1360768 1440900 16801050 19201080
+
+Each console variety games Most games released original Xbox backwards compatible played directly successor Xbox 360 Backward compatibility Xbox 360 titles added Xbox One yearandahalf launch June 2015 specific titles requiring Kinect USB peripherals supported The Xbox Series XS supports backward compatibility Xbox One titles except Kinectrequired games well Xbox 360 original Xbox titles made available Xbox One
+
+Games using Xbox Xbox Live brands also released Microsoft Windows Windows Phone Android iOS devices Xbox games also played using Xbox Cloud Gaming streaming service
+
+Microsoft used razor blades model sell family Xbox consoles selling console price manufacturing costs earning revenue licensing fees collects publishers developers services offered players61
+
+Xbox network formerly known Xbox Live online service 65 million users worldwide July 201962 It comprises online virtual market Xbox Games Store allows purchase download games various forms multimedia Online gaming Xbox first started November 15 2002 worldwide The service still active continues played gamers
+
+Microsoft Store online marketplace made Microsofts Xbox One Xbox Series XS consoles The marketplace buy games apps movies etc digital download
+
+The Xbox 360 console uses previous Xbox Games Store client
+
+The Xbox app companion application available Windows 8 Windows 10 Windows 11 iOS Android version 40 above63 Windows Server 2012 It announced Microsoft E3 2012 released October 26 2012 coinciding release Windows 864 It connect console allows interactive entertainment allowing mobile devices potentially serve second screens remote controller
+
+Xbox Game Pass Cloud Gaming65 codenamed xCloud development Microsofts Xbox cloud gaming streaming service
+
+In 2019 Microsoft released content filtering stop swearing toxicity online gaming The service enables players report messages Gamertags photos toxic content platform66
+
+Xbox Game Pass subscription service Microsoft use Xbox One Xbox Series XS Windows 10 Windows 11 The Xbox Game Pass grants users access catalog games range publishers single monthly subscription price The service launched June 1 2017
+
+Xbox Wire Xboxs news blog launched Microsoft May 2013 preparation announcement Xbox One67 It Microsofts first Xboxfocused blog since shut Gamerscore early 200968 In March 2022 Japaneselanguage version site published part Microsofts focus Japanese gaming market69
+
+The main interface four generations Xbox Xbox Dashboard allows users manage games stored console play media access system settings Since 2002 Dashboard integrated Xbox network provides online functionality storefront options The operating systems Xbox platforms heavily modified versions Windows NT operating system original Xbox Xbox 360 system softwares based Windows 2000 latest system software Xbox One Xbox Series XS based Windows 11 support Universal Windows Platform UWP applications
+
+In May 2020 Xbox presented preview version app allows parents guardians set daily limits childrens playing time provides weekly activity reports filters agerestricted games places limits online communication This attempt Microsoft Xboxs owner promote message responsible gaming70
+
+Released 2001 Xbox control pad first controller made original Xbox The Xbox controller features two analog sticks pressuresensitive directional pad two analog triggers Back button Start button two accessory slots six 8bit analog action buttons AGreen BRed XBlue YYellow Black White buttons71 The original Xbox controller nicknamed Fatty72 later Duke73 controller initially bundled Xbox systems territories except Japan received compact controller called Controller S The Controller S later made standard included controller territories
+
+Released 2005 Xbox 360 controller Xbox 360 succeeded predecessor A standard Xbox 360 controller features eleven digital buttons two analog triggers two analog sticks digital Dpad The right face controller features four digital action buttons green A button red B button blue X button yellow Y button The lower right houses right analog stick lower left digital Dpad left face left analog stick Both analog sticks also clicked activate digital button beneath In center controller face digital Start Back Guide buttons The Guide button labelled Xbox logo used turn consolecontroller access guide menu It also surrounded ring light indicates controller number well flashing connecting provide notifications The left right shoulders feature digital shoulder button bumper analog trigger
+
+The Xbox One console revised controller forty improvements 360s controller This new controller built work Kinect The Start Back buttons replaced Menu View buttons It impulse triggers replace regular triggers The Xbox button still brings miniguide recent dashboard versions though earlier iterations brought main dashboard menu leaving game uninterrupted
+
+The fourth generation Xbox Controller doesnt change much Xbox One controller new wireless Xbox Controller add capture share button hybrid dpad better gripping bumpers triggers74 The controller also promised cross compatible certain PCs mobile devices75
+
+The Xbox Adaptive Controller special controller designed accessibility features players Besides physically larger typical controllers includes additional ports allow devices connected mapped controller functions The controller limited Xbox Windows platforms also compatible PlayStation Nintendo Switch
+
+Kinect stylized KINECT motion sensing input device Microsoft Xbox 360 video game console Windows PCs Based around webcamstyle addon peripheral Xbox 360 console enables users control interact Xbox 360 without need touch game controller natural user interface using gestures spoken commands76 The project aimed broadening Xbox 360s audience beyond typical gamer base77 Kinect competes Wii Remote Plus PlayStation Move PlayStation Eye motion controllers Wii PlayStation 3 home consoles respectively A version Windows released February 1 201278
+
+Kinect launched North America November 4 201079 Europe November 10 201080 Australia New Zealand Singapore November 18 2010818283 Japan November 20 201084 Purchase options sensor peripheral include bundle game Kinect Adventures console bundles either 4 GB858687 250 GB88 Xbox 360 console Kinect Adventures85868788
+
+The Kinect claimed Guinness World Record fastest selling consumer electronics device selling total 8 million units first 60 days899091 24 million units Kinect sensor shipped January 201250
+
+Microsoft released Kinect software development kit Windows 7 June 16 2011929394 This SDK meant allow developers write Kinecting apps CCLI C Visual Basic NET9596
+
+Additional information Xbox One Kinect released June 6 2013 including information turn always feature97
+
+Although featuring improved performance original Xbox 360 Kinect successor Xbox One Kinect subject mixed responses It praised wideangle fast response time highquality camera However Kinects inability understand accents English criticized Furthermore controversies surround Microsofts intentional tying sensor Xbox One console despite initial requirements sensor plugged times revised since initial announcement There also number concerns regarding privacy
+
+When Xbox Live online service launched 2002 Xbox Communicator headset included Live Starter Kit98 The Communicator enabled ingame voice chat consisted wired headset interface module The module plugged controllers top expansion slot headset plugged module interface module equipped dial control volume button mute microphone99 The headset socket module standard 25mm TRS audio jack monaural input output compatible cellular phone headsets
+
+Xbox 360 controllers featured builtin monaural 25mm TRS jack also compatible standard cellular phone headsets allowing players reuse Xbox Communicator headset chat Xbox Live without separate interface module100 The premium console bundle included wired Xbox 360 Live Communicator headset grey white cosmetics matching console also available separately101 wired headset connected audio jack bottom controller wide plug included mute volume controls An updated Xbox 360 Headset released 2010 black cosmetics bundled Xbox 360 S revised wired headset mutevolume controls moved position inline along cable
+
+Microsoft also announced Xbox 360 Wireless Headset firstparty singleear headset accessory designed released Xbox 360 console November 2005 Special editions wireless headset released colors themed Halo 3 greenorange September 2007102 Xbox 360 S black 2010 Halo Reach silver September 2010103 It replaced Xbox 360 Wireless Headset Bluetooth 2011 could used console using Xbox wireless protocol phone using Bluetooth104
+
+The initial revision Xbox One Wireless Controller Model 1537 also included 25mm monaural jack compatible standard cellular phone headsets Microsoft bundled Xbox One Chat Headset console starting launch 2013 headset permanently wired interface module plugged controllers expansion port provided microphone mute volume controls105 In addition Microsoft released Xbox One Stereo Headset early March 2014 bundled Stereo Headset Adapter allowed players listen ingame audio blended chat simultaneously The Adapter connected controllers expansion port headset jack Headset connected Adapter 35mm plug Prior headsets released Xbox Xbox 360 limited voice chat only106 A whitecolored special edition released fall 2016107 The next revision controller Model 1697 replaced 25mm jack 35mm jack108
+
+A new Xbox Wireless Headset introduced February 2021 targeted use Xbox One Xbox Series XS Windows computers The outer surface earcup rotary control right earcup controls overall volume left earcup controls gamechat mix level109 It equipped proprietary Xbox Wireless Bluetooth radios could connected simultaneously110 A corresponding Xbox Stereo Headset omits wireless connections favor standard 35mm plug also omits gamechat mix control dial introduced August 2021 reduced price111
+
+In 2016 Microsoft announced would hold Xbox FanFest instead press conference Gamescom annual European video game convention112 Microsoft held Xbox FanFest Sydney September 2016113
+
+Microsoft held 20th anniversary celebration stream Xbox November 15 2021 During announced documentary behind history Xbox titled Power On The Story Xbox The documentary released six parts starting December 13 2021114 The documentary Daytime Emmy Award Outstanding Single Camera Editing115
